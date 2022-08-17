@@ -1,7 +1,7 @@
-- Hi, I’m @Shev-Felgrand
+- Hi, I’m Samuel Langlois @Shev-Felgrand
 - I’m interested in Video games, Programming, Table Top RPGs like D&D
-- I’m currently learning Java but starting Python soo
-- How to reach me ...
+- I have learn a few different languages Java, Javascript, Python, HTML, and CSS/Bootstrap
+- How to reach me @801-735-6025
 
 <!---
 Shev-Felgrand/Shev-Felgrand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
